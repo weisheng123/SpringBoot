@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4256836-1145-4c97-a83e-879403978f3b" name="Default Changelist" comment="" />
+    <list default="true" id="c4256836-1145-4c97-a83e-879403978f3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/com/albert/consumer/client/UserFeignClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/com/albert/consumer/client/UserFeignClientImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/com/albert/consumer/client/UserFeignClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer/target/classes/com/albert/consumer/client/UserFeignClientImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525652009416.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525658562507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525658640314.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525658740266.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525658906255.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525658983518.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525661641660.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525661669136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525661720656.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525662976679.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525666476326.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525666632542.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525672070679.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525672466192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525673049875.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525674373507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525674544569.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525674644660.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525675037152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525675168152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525675648881.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525675928548.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525675991833.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525676018340.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525676797879.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525677046705.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525677821212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525677891119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525681866862.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525682427811.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525683285697.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/assets4/1525683354113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/src/main/java/com/albert/zuul/ZuulAplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/src/main/java/com/albert/zuul/filter/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/target/classes/com/albert/zuul/ZuulAplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/target/classes/com/albert/zuul/filter/LoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/zuul.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/albert/ConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/albert/ConsumerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/albert/consumer/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/albert/consumer/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/albert/ConsumerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/target/classes/com/albert/ConsumerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/albert/consumer/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/target/classes/com/albert/consumer/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/albert/userservice/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/albert/userservice/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/albert/userservice/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/albert/userservice/service/UserService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +74,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,17 +93,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.albert.consumer.client" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -48,7 +119,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.UserApplication 2">
+  <component name="RunManager" selected="Spring Boot.EurekaApplication">
     <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="consumer" />
       <extension name="coverage">
@@ -62,7 +133,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="eureka-server" />
       <extension name="coverage">
         <pattern>
@@ -102,17 +173,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZuulAplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.albert.zuul.ZuulAplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.UserApplication 2" />
+      <item itemvalue="Spring Boot.ZuulAplication" />
       <item itemvalue="Spring Boot.ConsumerApplication" />
       <item itemvalue="Spring Boot.UserApplication" />
-      <item itemvalue="Spring Boot.EurekaApplication (1)" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConsumerApplication" />
         <item itemvalue="Spring Boot.UserApplication" />
-        <item itemvalue="Spring Boot.EurekaApplication (1)" />
+        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +205,11 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -150,6 +234,8 @@
       <workItem from="1584161448039" duration="2290000" />
       <workItem from="1584166714590" duration="1695000" />
       <workItem from="1584168431824" duration="4868000" />
+      <workItem from="1584332092580" duration="8076000" />
+      <workItem from="1584409740453" duration="2829000" />
     </task>
     <servers />
   </component>
@@ -165,42 +251,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="244" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584188069952" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1584168973770">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1584410156492">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584168973770" />
-    <state width="1185" height="413" key="GridCell.Tab.0.bottom" timestamp="1584190389305">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584410156492" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1584349839469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1185" height="413" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584190389305" />
-    <state width="1185" height="413" key="GridCell.Tab.0.center" timestamp="1584190389305">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584349839469" />
+    <state width="1185" height="239" key="GridCell.Tab.0.bottom" timestamp="1584433938042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1185" height="413" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584190389305" />
-    <state width="1185" height="413" key="GridCell.Tab.0.left" timestamp="1584190389305">
+    <state width="1185" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584433938042" />
+    <state width="1185" height="239" key="GridCell.Tab.0.center" timestamp="1584433938042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1185" height="413" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584190389305" />
-    <state width="1185" height="413" key="GridCell.Tab.0.right" timestamp="1584190389305">
+    <state width="1185" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584433938042" />
+    <state width="1185" height="239" key="GridCell.Tab.0.left" timestamp="1584433938042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1185" height="413" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584190389305" />
-    <state width="1185" height="413" key="GridCell.Tab.1.bottom" timestamp="1584190389305">
+    <state width="1185" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584433938042" />
+    <state width="1185" height="239" key="GridCell.Tab.0.right" timestamp="1584433938042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1185" height="413" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584190389305" />
-    <state width="1185" height="413" key="GridCell.Tab.1.center" timestamp="1584190389305">
+    <state width="1185" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584433938042" />
+    <state width="1185" height="239" key="GridCell.Tab.1.bottom" timestamp="1584433938042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1185" height="413" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584190389305" />
-    <state width="1185" height="413" key="GridCell.Tab.1.left" timestamp="1584190389305">
+    <state width="1185" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584433938042" />
+    <state width="1185" height="239" key="GridCell.Tab.1.center" timestamp="1584433938042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1185" height="413" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584190389305" />
-    <state width="1185" height="413" key="GridCell.Tab.1.right" timestamp="1584190389305">
+    <state width="1185" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584433938042" />
+    <state width="1185" height="239" key="GridCell.Tab.1.left" timestamp="1584433938042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1185" height="413" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584190389305" />
+    <state width="1185" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584433938042" />
+    <state width="1185" height="239" key="GridCell.Tab.1.right" timestamp="1584433938042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1185" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584433938042" />
     <state width="1024" height="210" key="GridCell.Tab.2.bottom" timestamp="1584110830668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -221,21 +311,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="71" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1584091939856" />
-    <state x="408" y="116" key="NewModule_or_Project.wizard" timestamp="1584168975540">
+    <state x="408" y="116" key="NewModule_or_Project.wizard" timestamp="1584349841045">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1584168975540" />
+    <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1584349841045" />
     <state x="272" y="58" key="SettingsEditor" timestamp="1584166670816">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584166670816" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584168441182">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1584409857153">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584168441182" />
-    <state x="178" y="117" key="new project wizard" timestamp="1584168805978">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584409857153" />
+    <state x="178" y="117" key="new project wizard" timestamp="1584369953484">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584168805978" />
+    <state x="178" y="117" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584369953484" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584332956225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584332956225" />
   </component>
 </project>
